@@ -1,0 +1,501 @@
+﻿Student_ID,Student_Name,Gender,Age,Department_ID,Department_Name,Course,Semester,Admission_Year,Hostel_Status,Email,Phone_Number
+1001,Jessica Long,Female,22,102,Electronics,BBA,2,2021,No,pgriffin@example.com,+1-447-871-4336x754
+1002,Christopher Wright,Female,22,105,Electronics,B.Tech,7,2023,Yes,lisadiaz@example.net,773.927.2343
+1003,Amanda Perry,Male,18,106,Electronics,BBA,1,2021,No,robert72@example.org,+1-525-604-4321x9716
+1004,Jesus Williams,Female,22,107,Mechanical,MBA,3,2025,No,kathycolon@example.org,487-953-9502
+1005,Darren Conner,Male,23,101,Electronics,MBA,1,2021,No,zdean@example.net,001-241-521-9210x3435
+1006,Edward Williams,Male,19,106,Information Technology,BBA,8,2025,Yes,huntsherry@example.net,(330)290-4688
+1007,Carlos Santiago,Male,18,101,Electrical,B.Tech,3,2024,No,samueltorres@example.com,402.776.7012x65824
+1008,Charles Boyd,Female,22,104,Electronics,M.Tech,2,2021,No,laura67@example.org,(491)381-7669x294
+1009,Elizabeth Wright,Female,19,101,Electronics,B.Tech,3,2024,Yes,harpernicole@example.org,9177632254
+1010,Maxwell King,Male,24,105,Mechanical,MBA,1,2022,Yes,qperez@example.net,(439)718-3950x545
+1011,Luis Robinson,Female,23,102,Information Technology,MBA,3,2022,Yes,asmith@example.org,231-298-5217x30216
+1012,Ashley Brooks,Male,23,105,MBA,B.Tech,2,2022,No,robert80@example.net,+1-539-818-5559
+1013,Nicole Robinson,Female,20,101,Civil,BBA,6,2025,No,cherylbates@example.net,865.721.0815
+1014,Jon Parker,Female,22,103,MBA,B.Tech,3,2022,No,bradleyrichard@example.net,4765748327
+1015,Steven Jordan,Female,22,107,BBA,M.Tech,3,2024,No,deborahwatts@example.net,443.398.5457
+1016,Ronnie Wilson,Female,20,107,MBA,MBA,2,2021,Yes,bradley17@example.net,(739)601-2584x4688
+1017,Amanda Johnson,Female,20,106,Electronics,M.Tech,7,2023,Yes,rodney61@example.org,(707)451-9329x0014
+1018,Chris Martinez,Male,24,103,BBA,B.Tech,7,2025,No,nguyenalexis@example.com,+1-494-620-8419x0396
+1019,Chris Smith,Male,19,105,MBA,BBA,2,2024,Yes,stephen11@example.org,828-589-5327
+1020,Cory Bell,Male,19,102,MBA,B.Tech,2,2021,No,staylor@example.com,717-960-1381x8011
+1021,Caitlin Santos,Male,23,107,Electrical,M.Tech,7,2024,Yes,sarasingh@example.com,838.683.6817x723
+1022,Reginald Baker,Female,21,102,Computer Science,B.Tech,7,2024,Yes,anneschaefer@example.org,404.656.2156x58520
+1023,John Kelly,Female,23,104,Computer Science,BBA,6,2024,No,joshuaruiz@example.com,430.500.3041x411
+1024,Michael Kennedy,Male,21,108,Computer Science,BBA,7,2022,Yes,wiselacey@example.com,898-329-2743x051
+1025,Ryan Sims,Male,22,106,Electronics,B.Tech,8,2022,No,ddennis@example.net,(753)714-7946x656
+1026,Angie Rodriguez,Male,24,106,Electrical,MBA,8,2021,No,davistammy@example.net,+1-729-202-1793
+1027,Elizabeth Brown,Male,18,107,Computer Science,M.Tech,6,2021,Yes,nicole00@example.net,001-371-811-4990x5012
+1028,Joshua Elliott,Female,18,108,Information Technology,MBA,3,2024,No,jamestiffany@example.com,001-940-646-4332x0571
+1029,Barbara Green,Female,22,103,Computer Science,BBA,5,2024,Yes,nkerr@example.net,635.765.7472x1369
+1030,Laura Daniel,Male,20,107,Electrical,MBA,8,2023,Yes,chernandez@example.net,3739198510
+1031,Colleen Guerra,Male,24,107,Computer Science,B.Tech,5,2021,Yes,sstephenson@example.org,691-404-9280x07898
+1032,Dale Vega,Female,18,101,BBA,MBA,8,2021,No,elizabeth37@example.net,001-791-417-6287
+1033,Michael Peters,Female,20,101,Civil,MBA,4,2023,Yes,wrightemily@example.org,(955)793-8169
+1034,Jordan Brooks,Female,21,105,Civil,MBA,1,2021,No,fchan@example.com,(842)586-2757x044
+1035,Jacob Warren,Female,22,105,MBA,M.Tech,8,2021,Yes,crystal12@example.net,+1-543-839-2406x0826
+1036,Jeffrey Higgins,Male,21,108,Civil,M.Tech,5,2025,No,krystalmendez@example.com,4666439645
+1037,Alison Singh,Female,21,105,Computer Science,MBA,6,2022,No,margaretwood@example.net,+1-279-749-3047x275
+1038,Nicole Ferguson,Male,23,106,Civil,M.Tech,4,2024,No,mcconnelldebbie@example.com,371-580-6976x65304
+1039,Sabrina Malone,Female,24,104,Mechanical,BBA,4,2022,No,jorgefields@example.com,+1-550-896-2792x757
+1040,Erin Woods,Male,21,108,Mechanical,MBA,8,2025,Yes,kristina26@example.org,+1-777-593-8481x971
+1041,Jose Valentine,Female,19,104,MBA,B.Tech,3,2022,Yes,kathleen74@example.org,5766617611
+1042,Alyssa Hanson,Male,21,105,Computer Science,BBA,4,2024,Yes,michaelmelton@example.org,5863707207
+1043,Tamara Reid,Female,23,101,Electronics,B.Tech,6,2022,No,lauranash@example.net,644-906-1933
+1044,Krystal Reese,Female,24,104,MBA,BBA,2,2023,No,gary62@example.org,001-964-745-6228x1346
+1045,Andrea Johnson,Female,23,106,Information Technology,B.Tech,5,2021,No,scox@example.org,927.244.9234x2633
+1046,Joshua Howard,Male,19,108,BBA,B.Tech,5,2022,Yes,nicolerivera@example.net,(479)640-2521x695
+1047,Kevin Payne,Female,18,102,Mechanical,B.Tech,8,2021,No,tyler39@example.com,223-887-6754
+1048,Terry Martin,Male,22,106,Electrical,MBA,1,2025,No,jacksonbriana@example.net,307-342-2689x25731
+1049,John Lloyd,Male,21,103,Computer Science,BBA,2,2021,No,mking@example.net,4123470147
+1050,Patrick Zimmerman,Female,19,104,Civil,BBA,7,2025,No,anthony17@example.org,(227)640-6279x30492
+1051,Edward Zimmerman,Female,20,107,MBA,B.Tech,5,2023,Yes,ikim@example.com,+1-331-744-8786x045
+1052,Anthony Soto,Male,22,104,Information Technology,BBA,3,2021,No,nicholsryan@example.net,235.345.9117
+1053,Taylor Barnett,Female,18,102,Mechanical,M.Tech,5,2025,Yes,ninaadams@example.org,(417)254-9677
+1054,Melissa Arnold,Male,22,108,Electrical,B.Tech,8,2025,Yes,beandavid@example.net,465-816-5128x810
+1055,Tony Thompson,Female,24,103,Civil,M.Tech,2,2023,No,hendersoncurtis@example.org,001-860-934-8202x9709
+1056,Melissa Bullock,Male,23,105,Mechanical,BBA,4,2025,No,andrew66@example.org,491.889.0295x6390
+1057,Nathan Murray,Female,23,102,MBA,MBA,3,2024,Yes,jennifermiller@example.org,(974)878-3638x18192
+1058,Sara Moreno,Male,19,104,Civil,MBA,5,2022,Yes,thompsondenise@example.org,(276)833-8303
+1059,Melissa Gutierrez,Female,20,103,Electrical,B.Tech,6,2023,No,meganestes@example.net,5032181452
+1060,Paul Kelly,Male,18,103,Mechanical,MBA,1,2023,No,ublackwell@example.com,560.960.1114x86304
+1061,Samantha Edwards,Female,18,108,Computer Science,MBA,8,2024,No,tamara85@example.net,001-708-845-7072x9464
+1062,Amy Nguyen,Female,23,102,MBA,MBA,3,2021,Yes,bautistamonique@example.org,001-856-762-4430x9860
+1063,Dawn Medina,Female,18,102,Mechanical,MBA,7,2021,Yes,kim03@example.net,+1-686-978-5219x0200
+1064,Kimberly Chapman,Male,23,107,Electrical,BBA,7,2021,Yes,felicialane@example.com,(880)759-9118
+1065,Billy Humphrey,Female,21,106,Mechanical,BBA,2,2021,No,zwhite@example.com,+1-792-233-4864x0873
+1066,Jennifer Ballard,Female,19,103,Electrical,B.Tech,4,2022,No,charlestran@example.org,2172182649
+1067,Taylor Conrad,Male,20,102,Computer Science,M.Tech,2,2021,Yes,josebecker@example.org,+1-418-250-0134
+1068,Brian Johnson,Female,22,104,Computer Science,M.Tech,5,2022,No,laura35@example.com,2842528524
+1069,Mr. Randy Chambers,Male,23,101,Civil,BBA,2,2023,No,ricejohn@example.com,(708)636-0768x026
+1070,Maria Sparks,Male,22,101,Mechanical,BBA,2,2021,No,iharris@example.net,(402)697-8300x753
+1071,Bryan Lin,Female,23,107,Mechanical,B.Tech,3,2025,Yes,baxterdonald@example.org,+1-411-433-5909x9213
+1072,Donald Green,Female,20,106,Information Technology,MBA,3,2021,No,jennifer56@example.com,(546)241-2954
+1073,Madison Lynch,Female,23,105,Civil,M.Tech,1,2022,No,carmen13@example.org,877-263-3695
+1074,Carlos Johnson,Female,24,101,BBA,MBA,4,2024,No,anthonybennett@example.org,+1-500-736-2061x963
+1075,Jose Perry,Female,18,105,Computer Science,MBA,7,2025,Yes,reyeskelly@example.net,706-406-2760
+1076,Elizabeth Skinner,Female,20,104,Computer Science,MBA,7,2024,No,laura58@example.net,283.658.2833
+1077,Richard David,Male,20,106,Civil,M.Tech,6,2025,Yes,mark73@example.org,+1-322-231-2941x34109
+1078,Anna Clark,Male,18,104,Mechanical,BBA,5,2024,No,elliottsheila@example.net,(460)964-0911x586
+1079,Amy Dunn,Male,23,105,Mechanical,MBA,3,2023,Yes,kristine43@example.com,7113282667
+1080,Margaret Aguirre,Male,22,102,BBA,MBA,6,2023,No,vrodriguez@example.org,991.452.9949x913
+1081,Dylan Yoder,Male,18,102,BBA,MBA,2,2021,Yes,travis82@example.net,001-557-801-8108
+1082,Karen Morales,Female,22,102,MBA,MBA,7,2023,No,forbesjonathan@example.com,815.722.3455x898
+1083,Megan Chapman,Male,24,108,Civil,M.Tech,2,2021,Yes,patrickparrish@example.org,246-465-9245x744
+1084,James Vargas,Male,21,103,Electrical,MBA,5,2024,Yes,kristin48@example.org,747-931-0142x40597
+1085,Megan Gilbert,Male,20,103,Computer Science,B.Tech,8,2023,No,brandon00@example.com,(848)212-0588x2605
+1086,Mark Bush,Female,24,102,Electronics,MBA,7,2023,No,qhenderson@example.net,297-429-0303x37399
+1087,Tracey Walsh,Male,21,104,BBA,BBA,4,2022,Yes,johnsonkevin@example.com,(561)403-9651x85216
+1088,Yolanda Allison,Female,24,107,Civil,B.Tech,7,2025,Yes,hnelson@example.org,534-991-6947x15602
+1089,Joseph Mathis,Male,18,102,Civil,M.Tech,7,2025,Yes,traci25@example.com,(519)814-0080x561
+1090,Justin Wright,Female,23,103,MBA,MBA,2,2021,No,lauralee@example.net,(401)385-8145x2552
+1091,Chad Smith,Female,19,107,BBA,M.Tech,6,2023,No,robertstein@example.org,001-785-420-6788x091
+1092,Tina Carey,Male,18,106,Electrical,BBA,3,2024,Yes,hguerrero@example.org,3729587129
+1093,Richard Glass,Female,24,105,Electronics,MBA,5,2022,No,kristen58@example.com,(464)789-2813x6457
+1094,Danielle Ward,Female,22,105,Electrical,M.Tech,2,2025,No,william42@example.com,710-603-6238x45487
+1095,Jill Montgomery,Female,23,108,Civil,MBA,2,2021,Yes,btorres@example.com,236.376.6021x2850
+1096,Mary Adams,Male,23,104,Civil,B.Tech,4,2022,Yes,jrose@example.org,488.929.1810
+1097,Jenna Richardson,Female,22,104,Mechanical,MBA,5,2022,Yes,zmurray@example.org,2769922083
+1098,Cynthia Savage,Female,19,103,Electrical,BBA,1,2024,Yes,victorglass@example.net,+1-328-908-6639x45339
+1099,Dean Clark,Male,20,103,Electrical,MBA,8,2021,No,deborah36@example.com,3285819020
+1100,Jennifer Chen,Female,23,106,Mechanical,B.Tech,1,2023,No,lavila@example.com,(610)931-5062x0976
+1101,Debra Perkins,Female,20,102,Computer Science,MBA,2,2022,Yes,chutchinson@example.org,+1-348-434-1302x48167
+1102,Joy Poole,Female,18,102,BBA,B.Tech,3,2021,No,stevenschristina@example.com,001-386-416-7861
+1103,Gary Garcia,Female,21,105,Mechanical,B.Tech,6,2022,Yes,wtran@example.org,(501)494-4641
+1104,Thomas Medina MD,Male,23,103,MBA,B.Tech,6,2025,No,iwhite@example.net,897.506.2268x6473
+1105,Jennifer Mckay,Male,22,106,Electrical,MBA,4,2022,No,mvega@example.org,803-216-5916
+1106,Kristin Gaines,Male,23,102,Mechanical,BBA,2,2022,Yes,nrivera@example.net,256.359.0385
+1107,Jessica Parrish,Female,18,106,Computer Science,M.Tech,7,2025,No,tonyahunt@example.com,569.940.8372x55008
+1108,Eddie Gibson,Female,22,105,Electronics,BBA,7,2023,No,tracey42@example.com,+1-851-234-8661x476
+1109,Christina Rogers,Female,23,105,MBA,B.Tech,6,2025,Yes,kim69@example.org,001-509-553-7533
+1110,William Martinez,Female,24,108,Mechanical,MBA,7,2024,Yes,nguyendenise@example.net,367-960-8184x264
+1111,Gary Conley,Female,20,106,Civil,M.Tech,3,2022,Yes,jennifer38@example.com,001-678-259-9191x35494
+1112,Allison Miller,Female,23,102,Civil,MBA,5,2022,No,bradykaitlyn@example.com,+1-928-440-2473x70092
+1113,Kelsey Beck,Female,19,101,Electrical,BBA,1,2024,Yes,ericahogan@example.org,001-212-269-6745x4435
+1114,Megan Luna,Male,24,106,Computer Science,MBA,6,2021,No,garrettmurphy@example.net,+1-679-476-4662
+1115,Dale Fleming,Male,22,102,Computer Science,M.Tech,4,2022,Yes,danielleboone@example.net,709.695.9875x162
+1116,Andrew Sellers,Female,22,102,Electrical,BBA,6,2021,No,amanda82@example.net,001-412-751-3676x199
+1117,Andrew Howard,Female,24,105,Computer Science,MBA,1,2023,Yes,hollyadams@example.org,973-291-1436x4335
+1118,Sheila Arnold,Male,18,102,Information Technology,B.Tech,2,2024,Yes,lawsonkathy@example.org,+1-838-266-9994x484
+1119,Gabriel Cobb,Female,23,106,Electrical,BBA,6,2024,No,williamsrobert@example.com,920.382.3697x9904
+1120,April Salazar,Male,24,102,Information Technology,MBA,8,2024,Yes,hannah19@example.net,839.274.3594x59747
+1121,Margaret Martinez,Female,22,108,Computer Science,BBA,7,2025,No,nmcdaniel@example.org,(623)950-6319x2772
+1122,Philip Miller,Female,22,104,Computer Science,BBA,7,2025,Yes,icampos@example.net,243.694.0276
+1123,Ashley Mcgrath,Female,18,104,BBA,MBA,5,2021,Yes,kristinjohnson@example.org,+1-781-263-5163x71959
+1124,Catherine Brown,Female,19,104,Electronics,M.Tech,2,2021,No,osbornelogan@example.net,516-811-1397
+1125,Anna Kennedy,Female,24,101,MBA,BBA,1,2021,No,nicole69@example.com,(533)675-5743
+1126,Michael Martinez,Female,24,105,MBA,B.Tech,4,2023,No,alvarezjacqueline@example.org,001-272-325-1026
+1127,Kathleen Spencer,Female,23,107,Civil,BBA,2,2024,Yes,charles03@example.net,(418)362-6438
+1128,Christina Myers,Male,23,104,Electronics,MBA,5,2022,Yes,urodriguez@example.org,798.310.3846
+1129,Douglas Gray,Male,20,105,Mechanical,B.Tech,4,2022,Yes,johnsonjoshua@example.org,001-782-477-9133x56633
+1130,Samantha Tucker,Female,24,106,Information Technology,B.Tech,4,2025,No,martin48@example.net,(793)412-7189
+1131,Joseph Jordan,Female,21,104,Electronics,BBA,8,2021,No,joannawilliams@example.com,(461)940-5577
+1132,Thomas Lloyd,Male,23,105,MBA,B.Tech,7,2021,No,brendagarcia@example.com,599-577-2027x3321
+1133,Michael Garrett II,Female,24,106,MBA,M.Tech,7,2021,Yes,davischristopher@example.net,+1-305-903-6265x8495
+1134,Amanda Lang,Male,24,101,BBA,B.Tech,8,2024,Yes,yesparza@example.net,211.601.7002
+1135,Tyler Frank,Male,23,105,Information Technology,M.Tech,1,2021,No,garciavanessa@example.com,(310)354-8255
+1136,Carolyn Ortega,Male,23,101,Electronics,BBA,6,2022,Yes,millsnicholas@example.com,8628962450
+1137,Lawrence Davis,Female,19,105,Mechanical,BBA,5,2025,No,matthew09@example.com,+1-589-896-1828x5851
+1138,Jose Jones,Male,23,102,Computer Science,BBA,6,2024,No,eric25@example.net,+1-554-820-9966x532
+1139,Brittany Sherman,Male,21,102,BBA,B.Tech,1,2024,Yes,aaron54@example.net,944-897-1869
+1140,Timothy Watkins,Male,21,106,Computer Science,MBA,5,2025,No,alicia23@example.net,925.878.7501x38873
+1141,Kayla Duncan,Female,23,106,Mechanical,M.Tech,4,2024,No,nunezdonald@example.com,001-554-230-2793x531
+1142,Joseph Black,Female,18,102,Civil,BBA,1,2023,Yes,sblack@example.org,5847120925
+1143,Karen Atkinson,Male,24,105,Civil,BBA,8,2022,Yes,ychristian@example.net,001-229-715-0671
+1144,Gabrielle Harris,Female,21,102,Electronics,M.Tech,5,2021,Yes,tristangreen@example.org,+1-902-268-2789
+1145,Matthew Bass,Female,21,107,MBA,BBA,3,2024,No,jonesmichael@example.net,799.474.0831
+1146,James Brown,Male,19,101,Mechanical,BBA,5,2023,Yes,martincrystal@example.org,(821)735-0542
+1147,Kenneth Vargas,Female,23,106,MBA,B.Tech,4,2022,Yes,candicerosales@example.com,299-746-6288x96267
+1148,Katherine Owens,Female,21,103,Civil,BBA,4,2021,No,richardtodd@example.net,001-877-956-0419x4791
+1149,Megan Reid,Female,24,105,Computer Science,B.Tech,2,2022,No,rtate@example.net,+1-711-213-5463x3815
+1150,Fernando Roberts,Male,18,103,Information Technology,B.Tech,2,2025,No,jessica02@example.com,881.872.5615
+1151,Tyler Perkins,Female,22,108,MBA,BBA,2,2023,No,scampbell@example.org,7375571118
+1152,Brandon Thompson,Female,20,104,Computer Science,BBA,3,2023,Yes,jodi64@example.net,351-324-7898
+1153,Ashley Hawkins,Female,18,102,Civil,M.Tech,1,2023,Yes,abarber@example.com,550-419-0662
+1154,Terrence Robinson,Female,20,101,Information Technology,M.Tech,8,2023,No,andersonashley@example.net,585.870.0391x107
+1155,Peter Garner,Male,18,107,Electrical,MBA,8,2023,No,fernandosanders@example.com,840-819-0061x46964
+1156,Jennifer Pollard,Male,22,106,MBA,BBA,1,2022,No,christopher52@example.com,(827)739-6036
+1157,Kimberly Anderson,Female,19,108,MBA,MBA,5,2024,No,dnorris@example.com,+1-357-615-5015x6885
+1158,Kevin Brown,Female,19,105,Computer Science,M.Tech,4,2024,Yes,jeffreyprice@example.org,+1-246-359-2011x9057
+1159,Kelly Baxter,Female,21,106,Computer Science,M.Tech,8,2024,No,michael42@example.com,001-470-348-0769x54609
+1160,Lori Boone,Male,22,104,Electronics,MBA,1,2023,No,harrisapril@example.com,001-590-826-3685x00080
+1161,Elizabeth Wells,Male,21,103,Information Technology,MBA,5,2021,Yes,james05@example.org,297.750.6298x83100
+1162,John Nixon,Female,23,107,Computer Science,B.Tech,6,2021,Yes,qwilliams@example.net,+1-846-638-2884x6507
+1163,Brandon Friedman,Female,23,101,MBA,B.Tech,8,2024,Yes,crystalblack@example.org,9292494037
+1164,Alicia Chaney,Female,19,106,Computer Science,B.Tech,8,2022,Yes,deniseblanchard@example.net,(435)386-8689
+1165,Richard Olson,Female,18,101,Information Technology,B.Tech,3,2021,No,rvillegas@example.net,523-945-5835x0727
+1166,Nicholas Miles,Male,23,107,Electrical,B.Tech,2,2021,No,marcuswhite@example.org,480-341-2431
+1167,Katelyn Sullivan,Male,19,106,Information Technology,B.Tech,3,2022,Yes,corey16@example.net,470-696-6080x49993
+1168,Judith Thomas,Male,24,104,Electronics,M.Tech,8,2023,No,ellisvictor@example.net,381-299-3994
+1169,Miranda Mejia,Male,24,107,Electronics,M.Tech,7,2023,No,samantha92@example.org,001-261-364-3498x98020
+1170,Randy Johnson,Female,20,103,Civil,BBA,5,2021,Yes,lewisangelica@example.net,(226)994-5574
+1171,Michael Walters,Female,20,106,Electrical,BBA,6,2025,No,jennifercantrell@example.net,309-903-4621x5613
+1172,Sarah Allen,Male,22,108,BBA,B.Tech,2,2022,No,mcook@example.org,(784)461-8896x568
+1173,Shannon Thompson,Female,18,103,BBA,B.Tech,8,2023,Yes,dcole@example.org,692-897-7411x2459
+1174,Nicholas Cobb,Female,20,106,Computer Science,B.Tech,8,2022,Yes,sharon52@example.net,+1-664-305-4464
+1175,Tracy Reilly,Female,20,106,Information Technology,BBA,1,2022,Yes,kellis@example.com,(957)275-2819x67533
+1176,Eric Alvarez,Male,20,106,MBA,BBA,3,2023,Yes,acole@example.net,436-339-7172
+1177,Isaac Meyer,Male,21,102,Electronics,M.Tech,4,2022,No,juliejohnson@example.com,(341)984-7011x576
+1178,Matthew Turner,Male,19,103,Information Technology,BBA,1,2023,Yes,jessicarowe@example.org,694-240-0750
+1179,Suzanne Day,Female,19,106,Computer Science,BBA,7,2022,Yes,lori97@example.org,(312)812-7314x486
+1180,David Martinez,Female,19,105,MBA,B.Tech,6,2021,Yes,danielmoore@example.com,001-225-265-2774x05668
+1181,Michelle Jones,Male,18,107,Mechanical,MBA,2,2021,Yes,scottrebecca@example.com,(985)443-9189x147
+1182,Mark Lynn,Male,21,104,Electronics,BBA,7,2023,No,jaybowman@example.net,692-449-2335x918
+1183,Ann Keller,Female,20,104,Information Technology,B.Tech,7,2025,No,romeroolivia@example.com,(582)259-2167x544
+1184,Matthew Leon,Male,20,105,Information Technology,MBA,2,2023,No,emily15@example.net,7207132753
+1185,Michael Koch,Female,20,101,Information Technology,M.Tech,4,2023,Yes,tammy30@example.net,5379410089
+1186,Thomas Myers,Male,20,105,Civil,B.Tech,4,2023,Yes,sarawhite@example.net,967.292.3110
+1187,Ryan Yoder,Female,24,107,Mechanical,BBA,3,2024,Yes,megan55@example.com,001-358-730-7708x083
+1188,John Dunn,Female,23,101,MBA,BBA,6,2024,Yes,joel86@example.com,372-740-7080x64972
+1189,Michael Schneider,Female,19,104,MBA,MBA,8,2021,No,williamsscott@example.org,3072452743
+1190,Nicole Young,Female,22,101,BBA,MBA,8,2024,No,james81@example.com,+1-570-336-0551x278
+1191,Darrell English,Female,21,104,Civil,BBA,2,2021,Yes,mkelly@example.net,(696)715-9178x260
+1192,Alexa Griffin,Male,24,104,Civil,MBA,8,2025,Yes,kristinatyler@example.org,+1-801-842-5393x548
+1193,Dylan Herrera,Female,19,106,MBA,MBA,2,2021,No,denisekelly@example.net,001-687-415-9308x1741
+1194,Victoria Herman,Male,22,106,BBA,M.Tech,6,2024,No,mgutierrez@example.org,467-503-8383
+1195,Robert Brown,Female,22,103,Electronics,B.Tech,1,2024,Yes,swilliams@example.net,829-423-1475x6193
+1196,Amy Hayden,Male,22,108,MBA,B.Tech,3,2024,Yes,rodrigueztheodore@example.com,989-558-5346x229
+1197,Dean Garcia,Female,22,101,Electrical,MBA,1,2025,No,mevans@example.net,001-424-507-2325
+1198,Breanna Mclaughlin,Male,20,105,Mechanical,M.Tech,2,2023,Yes,amber86@example.net,367.373.7370x47032
+1199,Michael Vasquez,Female,19,102,MBA,B.Tech,2,2021,Yes,xjuarez@example.net,523.649.4972x44285
+1200,Alexandra Mata,Male,18,105,BBA,M.Tech,3,2025,No,gonzalezbrian@example.com,+1-527-626-0889x134
+1201,Christina Taylor,Female,18,108,Electronics,BBA,3,2025,No,kalvarez@example.net,4106369624
+1202,Lonnie Bishop,Female,23,105,Electrical,BBA,7,2025,Yes,lmoore@example.org,001-470-293-6414
+1203,Ronald Smith,Female,18,103,Civil,B.Tech,3,2022,No,anna68@example.org,001-441-272-8849x3423
+1204,Amy Henson,Male,24,108,BBA,B.Tech,6,2023,No,jamesarroyo@example.net,001-500-639-1897x8433
+1205,Annette Franco,Female,18,104,MBA,B.Tech,2,2022,Yes,jimmyross@example.org,563.884.7800x22581
+1206,Jonathan Hill,Male,24,108,Electrical,B.Tech,4,2025,Yes,heather33@example.net,452-935-6250x991
+1207,Rebecca Montgomery,Male,18,101,Civil,B.Tech,8,2023,Yes,blairphilip@example.org,371.820.4127x29298
+1208,David White,Female,19,105,MBA,M.Tech,6,2023,No,michael10@example.org,+1-902-681-8642x73119
+1209,Jacob Matthews,Female,24,101,Civil,B.Tech,3,2024,Yes,miketaylor@example.org,001-708-804-9584x058
+1210,Daniel Buchanan,Male,21,105,Mechanical,M.Tech,5,2022,No,robert85@example.org,001-619-938-9624
+1211,Casey Grimes,Male,23,103,MBA,MBA,1,2025,No,olane@example.net,367-415-2996
+1212,Jenna Johnston,Male,21,101,Electronics,M.Tech,3,2021,No,otaylor@example.net,001-281-508-9551
+1213,Steven Thompson,Male,19,104,Information Technology,M.Tech,1,2024,Yes,hayesjennifer@example.org,(444)851-0796
+1214,Jessica Hancock,Male,18,108,Computer Science,B.Tech,5,2025,Yes,collinsgregory@example.org,+1-362-698-1226
+1215,Brian Clark,Male,19,101,Electronics,BBA,8,2023,No,josephalexander@example.com,667-349-5544
+1216,Richard Meadows,Female,19,103,MBA,BBA,6,2024,No,terrymichelle@example.com,457.844.9150x75195
+1217,Ruth Jackson,Female,22,104,Electrical,M.Tech,2,2023,Yes,alexandra71@example.net,(650)258-4440x4457
+1218,Christopher Henry,Male,23,103,Civil,BBA,6,2021,Yes,davisbrandon@example.net,+1-258-301-0104
+1219,James Arnold,Female,22,107,Electronics,MBA,7,2022,Yes,jacqueline87@example.org,261.948.5564x267
+1220,Amanda Scott,Female,19,107,BBA,B.Tech,8,2021,No,nhoffman@example.net,(492)206-2386
+1221,Brandon Neal,Male,23,106,BBA,B.Tech,6,2023,No,stephanie71@example.com,253.257.2708
+1222,Charles Ortega,Female,20,107,MBA,M.Tech,5,2021,No,eugene40@example.net,701-313-8178
+1223,Stephanie George,Female,19,101,Information Technology,B.Tech,3,2025,Yes,shelby95@example.com,274.872.5905
+1224,Justin Murphy,Male,24,106,Electrical,MBA,8,2023,Yes,wrubio@example.com,(585)648-8960x382
+1225,Elizabeth Robles,Female,19,104,MBA,B.Tech,1,2023,No,jhill@example.com,(431)543-9664x4841
+1226,Louis Gutierrez,Male,18,104,Computer Science,M.Tech,8,2022,Yes,vasquezelizabeth@example.net,001-647-829-3958x38476
+1227,Tamara Johnson,Male,19,104,MBA,MBA,1,2023,Yes,heather76@example.net,7924095673
+1228,Mark Bates,Male,19,105,Information Technology,M.Tech,1,2021,Yes,carriewatkins@example.net,277.753.2636x735
+1229,Kristin Pierce,Female,21,102,Information Technology,MBA,6,2021,Yes,richardcosta@example.org,642-944-2149
+1230,Christopher Cruz,Male,23,103,MBA,B.Tech,1,2022,Yes,ivan85@example.org,7676036269
+1231,Nancy Alexander,Female,23,103,Civil,BBA,5,2021,No,lawsonnathan@example.net,+1-597-759-9971
+1232,Tara Koch,Female,22,104,Information Technology,M.Tech,5,2023,No,morgan99@example.com,+1-480-898-4604x9956
+1233,Christine Steele,Female,20,104,Information Technology,B.Tech,5,2022,Yes,marisa92@example.org,001-743-608-6108x2015
+1234,Erica Gentry,Male,21,103,Information Technology,BBA,1,2024,No,tiffanysmith@example.net,001-780-714-7501x956
+1235,Amber Lopez,Female,24,105,Mechanical,MBA,2,2023,No,markhobbs@example.com,(893)510-6867x9991
+1236,Andrea Hudson,Female,21,106,Electronics,MBA,1,2022,No,smithlaura@example.net,611.956.5126x0436
+1237,Jenna Bates,Female,23,108,Information Technology,B.Tech,5,2022,Yes,bryanspencer@example.org,(721)255-2095x1435
+1238,Breanna Kirk,Male,21,101,Computer Science,BBA,6,2022,No,tylerduncan@example.com,542.206.5173x19981
+1239,Ariana Daniels,Male,18,105,Computer Science,B.Tech,8,2025,Yes,dianemorrison@example.net,+1-292-302-2929x241
+1240,James Rodriguez,Female,22,101,MBA,B.Tech,2,2021,No,icarlson@example.com,8102875276
+1241,Felicia Stevens,Female,24,105,Mechanical,MBA,7,2023,No,david88@example.com,(321)693-2947x705
+1242,Brittany Zimmerman,Male,19,107,BBA,BBA,3,2023,No,nicholasrodriguez@example.net,+1-763-511-3521x3044
+1243,Kelly Hurley,Male,21,102,Civil,B.Tech,3,2025,Yes,justin15@example.com,001-941-449-5756x635
+1244,Angela Anderson,Male,24,106,Electronics,BBA,5,2024,No,john76@example.com,336-726-4692
+1245,Laurie Craig,Female,18,102,MBA,BBA,6,2023,No,jeffreyfreeman@example.com,+1-395-354-2665x769
+1246,Candace Bentley,Male,19,104,Civil,M.Tech,8,2025,Yes,williamowens@example.com,268-684-0936
+1247,Edward Davenport,Male,21,101,Civil,MBA,3,2024,Yes,xavierlee@example.net,727-376-9739x4747
+1248,John Bradley,Male,21,101,Mechanical,MBA,7,2021,No,tmartin@example.net,+1-520-213-1268x1521
+1249,Angela Beck,Male,22,108,Civil,BBA,6,2022,No,perkinsandrew@example.com,(440)458-2335x855
+1250,Laurie Friedman,Male,22,106,Electronics,MBA,4,2022,No,cynthiabrown@example.net,(526)353-6678x928
+1251,Brad Wiley,Male,21,102,Electrical,B.Tech,1,2024,Yes,ryanmichelle@example.com,(525)343-2424
+1252,Samantha Norris,Male,20,104,BBA,MBA,6,2023,Yes,seanyates@example.org,521.215.5706x95856
+1253,Brianna Hodges,Male,22,108,Electrical,BBA,8,2023,No,tthomas@example.net,236.369.3911x6835
+1254,Jimmy Mcpherson,Male,21,104,MBA,MBA,7,2022,Yes,lknight@example.com,+1-322-229-8578x2388
+1255,Michele York,Female,21,107,Mechanical,BBA,2,2023,No,monica55@example.org,544.493.7989
+1256,Virginia Baker,Male,19,102,Electronics,B.Tech,6,2021,Yes,mitchell83@example.org,394.544.6394x125
+1257,Eric Harris,Male,21,103,BBA,BBA,7,2021,Yes,karen34@example.org,302-552-8810
+1258,Ashley Rice,Male,21,103,Civil,M.Tech,1,2021,No,cranesarah@example.net,450-846-8890x84384
+1259,Tony Bradley,Female,22,104,Information Technology,B.Tech,3,2021,No,jessicajackson@example.net,636-837-3362x520
+1260,Joshua Taylor,Male,20,107,Civil,M.Tech,7,2024,Yes,millerjoanne@example.net,+1-484-431-5335x4534
+1261,Robert Lester,Male,21,101,BBA,MBA,3,2024,No,michelleodom@example.net,480.916.1149x54107
+1262,Daniel Ellis,Female,20,108,BBA,B.Tech,4,2021,No,wjackson@example.org,(684)367-5703x39729
+1263,Jesse Davis,Male,19,105,Information Technology,MBA,6,2021,No,chadclark@example.com,557-841-5272
+1264,Tara Potter,Male,20,106,Civil,MBA,1,2023,No,martinreginald@example.com,926-946-1581
+1265,Michael Bishop,Male,19,105,MBA,BBA,7,2023,Yes,jyoung@example.net,341-831-9642x1082
+1266,Jennifer Ford,Male,21,102,Electronics,M.Tech,6,2023,Yes,hughessteven@example.com,(584)757-5430
+1267,Michael Williams,Female,22,108,Computer Science,MBA,7,2024,Yes,debra36@example.org,2037322600
+1268,Kayla Ryan,Male,22,101,Civil,MBA,4,2025,No,qbailey@example.net,+1-452-976-7488
+1269,Parker Trevino,Female,22,105,Computer Science,M.Tech,3,2025,No,angelamorgan@example.net,970-885-4652x6689
+1270,Thomas Gill,Male,24,103,BBA,MBA,5,2025,Yes,robin36@example.com,+1-236-605-6904x12326
+1271,Bobby Ramirez,Male,24,104,Electrical,MBA,5,2025,No,teresa18@example.org,494.803.5694x4686
+1272,Rodney Fisher,Female,19,107,Electronics,M.Tech,8,2025,No,jamesanthony@example.net,001-252-249-0057x67880
+1273,Jeffrey Atkinson,Male,21,107,MBA,M.Tech,3,2023,No,hubbardjoy@example.com,(996)457-7562x1232
+1274,Ronald Townsend,Female,19,106,Electrical,B.Tech,1,2023,Yes,cschroeder@example.org,611.579.5586
+1275,Gabriela Anderson,Male,22,102,MBA,B.Tech,5,2023,No,phughes@example.com,+1-339-210-0987x213
+1276,Willie Spencer,Female,20,105,Mechanical,BBA,6,2021,Yes,zacharyclark@example.com,370-831-8600
+1277,Anthony George,Male,18,105,Electronics,B.Tech,3,2022,No,snyderchristian@example.com,635.290.0785
+1278,Sharon Lewis,Female,22,104,Computer Science,BBA,1,2025,No,grahamerica@example.org,(206)522-0160
+1279,Carlos Baker,Male,23,108,Computer Science,M.Tech,8,2022,Yes,paige50@example.net,783.334.1075x9282
+1280,Valerie Johnson,Female,22,104,Civil,BBA,5,2024,Yes,francisadam@example.org,001-843-452-5081x007
+1281,Zachary Bennett,Female,18,105,Electronics,MBA,8,2025,No,matthew47@example.com,(661)562-4652
+1282,Jamie Carter,Male,19,102,Information Technology,B.Tech,2,2024,Yes,erin54@example.org,001-452-709-3686x6169
+1283,John Smith,Male,18,102,Mechanical,B.Tech,7,2024,No,bbarker@example.org,632.508.8592x82477
+1284,Richard Andrews,Male,24,108,Information Technology,MBA,8,2021,No,frankmaria@example.org,001-675-495-1375x570
+1285,Paul Smith,Male,19,102,Civil,M.Tech,5,2022,No,maureen53@example.org,379.847.5159x068
+1286,Sylvia Moon,Male,18,106,Mechanical,BBA,7,2021,Yes,hannashannon@example.com,(213)691-1987x762
+1287,Johnny Wallace,Male,24,107,BBA,MBA,7,2024,No,cherylbooth@example.com,419-797-0001
+1288,Andrea Sutton,Female,23,104,Electrical,BBA,2,2025,Yes,phill@example.net,375.765.4672x65540
+1289,Douglas Knight,Female,20,103,MBA,MBA,2,2023,No,salazaraudrey@example.org,499-259-6907
+1290,Caleb Jackson,Female,23,103,Mechanical,B.Tech,2,2023,Yes,robertruiz@example.net,+1-844-905-6541
+1291,Adam Snyder,Male,20,103,Electrical,B.Tech,5,2024,Yes,millerronald@example.com,323.908.6505x46691
+1292,Jasmine Parker,Female,20,106,Information Technology,MBA,4,2022,Yes,kennethatkinson@example.com,+1-304-617-7604x0086
+1293,Margaret Williams,Female,23,107,Information Technology,BBA,1,2025,Yes,ryan77@example.com,373-879-5346
+1294,Bryce Villegas,Male,19,104,Civil,MBA,2,2022,No,ograham@example.net,(445)369-8732x7227
+1295,Michael Perez,Male,18,103,Mechanical,M.Tech,8,2021,Yes,acevedocourtney@example.com,452.945.4324x76791
+1296,William Rose,Female,22,107,BBA,M.Tech,4,2022,Yes,fblackwell@example.net,(442)977-8147
+1297,Chelsea Oneal,Female,24,103,Electrical,M.Tech,7,2025,No,connersydney@example.com,(972)965-9854
+1298,Jonathan Garrett,Male,22,107,Civil,MBA,7,2025,Yes,austin69@example.com,255.823.3054
+1299,Chelsea Carpenter,Male,22,101,Civil,M.Tech,6,2021,No,khanelaine@example.org,(783)971-5425x18613
+1300,Amanda Woods,Male,21,103,BBA,BBA,3,2022,Yes,lisareyes@example.com,(771)373-6260x251
+1301,Christopher Pope,Female,21,107,Mechanical,M.Tech,7,2022,No,kiara24@example.org,258-417-8644
+1302,Kirsten Webb,Female,21,107,Information Technology,M.Tech,7,2024,No,michelle50@example.com,883-631-7117x28808
+1303,David Thompson,Male,18,101,Computer Science,M.Tech,1,2024,Yes,josephmorgan@example.net,001-557-329-4921x605
+1304,James Fleming,Female,22,108,Information Technology,M.Tech,6,2022,Yes,ann02@example.net,793.355.4969
+1305,Jared Maddox,Male,19,102,Mechanical,BBA,8,2022,No,juarezsusan@example.org,539.393.3644
+1306,Jeremiah Alvarez,Female,22,101,BBA,M.Tech,8,2023,No,cynthiascott@example.net,+1-673-740-6807x839
+1307,Darlene Hoover,Female,22,104,Mechanical,M.Tech,5,2023,No,johnsonrobert@example.org,275.695.8030
+1308,Kayla Kirby,Male,23,108,Civil,BBA,1,2025,Yes,leekarla@example.org,001-605-399-5869x25476
+1309,Mr. Derrick Warren,Male,23,105,Civil,B.Tech,5,2021,No,fishersusan@example.org,304.426.8350x4274
+1310,Whitney Guerrero,Female,19,106,Information Technology,M.Tech,1,2023,Yes,steven67@example.org,704.563.7435x6256
+1311,Mark Pope,Male,21,108,Computer Science,BBA,3,2024,No,zbrown@example.net,(768)991-3508x359
+1312,Michael Holmes,Male,22,101,BBA,B.Tech,8,2023,No,tbryan@example.org,582-765-2951
+1313,Tracy Carr,Female,19,105,Electronics,MBA,8,2021,No,zacharykhan@example.net,664.268.8119x92738
+1314,Mrs. Alyssa Landry,Female,23,106,MBA,B.Tech,2,2025,Yes,lynnjones@example.com,505-659-4922
+1315,Nicholas Trevino,Male,19,102,Information Technology,B.Tech,6,2022,No,yharris@example.net,001-213-323-0770x81675
+1316,Jackie Bryant,Male,20,103,Civil,M.Tech,6,2023,Yes,kimhannah@example.org,481-837-9468x4631
+1317,Robert Martin,Male,18,102,Electronics,MBA,7,2023,Yes,mariah46@example.com,(988)556-9109x41628
+1318,Ashley Lawrence,Female,18,104,Computer Science,B.Tech,4,2024,Yes,melissa68@example.org,545-700-4375x055
+1319,Jason Cook,Male,22,101,Mechanical,BBA,1,2021,No,patricia56@example.net,455.935.2703x7376
+1320,Phillip Hernandez,Female,18,108,Electrical,B.Tech,7,2023,Yes,ernest90@example.net,492.351.4683x8344
+1321,Scott Hall,Female,18,107,Information Technology,M.Tech,2,2022,No,jenny47@example.org,313-329-4633x01175
+1322,Mark Summers,Female,18,107,Mechanical,M.Tech,5,2025,Yes,dbell@example.net,577.939.8658
+1323,James Holt,Male,24,105,Mechanical,MBA,2,2025,No,amberwilson@example.com,5247023594
+1324,Tyler Vargas,Female,18,105,Information Technology,BBA,1,2022,Yes,wileyandrea@example.net,+1-785-540-8930x82723
+1325,Johnny Stevens,Female,21,102,Computer Science,B.Tech,2,2022,Yes,hatfieldchelsea@example.org,349.203.4554x545
+1326,Julia Anderson,Female,24,105,MBA,B.Tech,4,2021,Yes,danaholmes@example.com,757.228.2467x2416
+1327,Diana Humphrey,Female,18,106,Computer Science,M.Tech,5,2025,Yes,christina38@example.org,+1-818-976-1296x1908
+1328,Ashley Powell,Female,20,101,Mechanical,M.Tech,5,2021,Yes,adennis@example.net,+1-291-510-8990x96143
+1329,Jacob Guerrero,Female,18,103,Computer Science,M.Tech,1,2021,Yes,theresa51@example.com,+1-946-575-6675
+1330,David Cohen,Male,24,102,BBA,B.Tech,4,2025,Yes,wilsontraci@example.org,991-851-2315x55409
+1331,Virginia Kennedy,Female,18,105,MBA,M.Tech,3,2022,Yes,millerwilliam@example.com,+1-402-353-2300
+1332,Bryan Stephens,Female,20,105,Computer Science,M.Tech,5,2025,No,uwinters@example.net,489.856.3679x740
+1333,Jeffrey Lopez,Male,20,102,MBA,M.Tech,8,2025,No,amyboyle@example.net,710-962-9333
+1334,Gregory Diaz,Female,23,103,Information Technology,BBA,2,2022,Yes,douglasevans@example.net,+1-400-717-1757x5122
+1335,Courtney Johnston,Female,23,101,Electronics,B.Tech,4,2023,No,joshua84@example.net,(689)933-3501
+1336,Jordan Sawyer,Male,22,107,Electronics,B.Tech,8,2022,Yes,amandagarrett@example.net,+1-742-475-6646x528
+1337,Rachel Barrett,Female,18,104,BBA,B.Tech,1,2024,No,sherri90@example.com,245-908-3626x0429
+1338,Alexis Walker,Female,22,102,MBA,BBA,7,2025,Yes,williamsangela@example.net,425-648-1579x089
+1339,Vanessa Romero,Male,23,101,MBA,B.Tech,3,2024,No,richard32@example.com,385.294.6102x128
+1340,Jonathan Warner,Male,24,103,Civil,B.Tech,6,2022,No,psalazar@example.net,9966171845
+1341,Matthew White,Female,22,107,Mechanical,M.Tech,6,2025,Yes,tatekayla@example.org,+1-834-936-1058
+1342,Regina Nichols,Female,19,102,MBA,MBA,6,2021,Yes,bondryan@example.net,472-780-9008
+1343,Crystal Owens,Female,23,103,Electrical,BBA,5,2021,No,flowe@example.org,298-304-9150x996
+1344,Joseph Mendoza,Male,24,107,MBA,M.Tech,8,2024,Yes,ronaldhill@example.org,001-221-835-2711x2591
+1345,Sandra Robertson,Female,18,107,Information Technology,B.Tech,5,2022,No,yvette80@example.com,323-857-6788x6109
+1346,Brian Cardenas,Female,21,107,Civil,M.Tech,4,2021,Yes,qhansen@example.com,+1-404-448-8762x853
+1347,Jennifer Cruz,Male,19,104,Computer Science,B.Tech,6,2024,Yes,tclarke@example.com,001-244-628-3444x33379
+1348,Edward Jones,Female,21,101,Electrical,M.Tech,3,2024,Yes,chad42@example.com,886-240-6652x32042
+1349,Steven Brewer,Male,23,107,Information Technology,B.Tech,8,2021,No,michelesmith@example.net,974.731.6305x59316
+1350,Dr. Kurt Price Jr.,Male,21,104,Information Technology,BBA,7,2022,Yes,gregory53@example.com,(358)265-5979
+1351,Jon Cook,Male,24,106,Information Technology,BBA,1,2024,No,garciasean@example.net,283-414-7985x670
+1352,John Mitchell,Female,21,105,Mechanical,M.Tech,2,2025,Yes,lucasamber@example.net,951.476.5557
+1353,Jim Carter,Male,19,105,Mechanical,M.Tech,5,2025,Yes,ebullock@example.com,3459493491
+1354,Leslie Martinez,Male,18,104,BBA,B.Tech,3,2021,Yes,tmckinney@example.net,425-886-3772x429
+1355,Kayla Mullen,Female,24,108,Information Technology,B.Tech,1,2025,No,christian02@example.net,+1-399-474-0063x396
+1356,Mr. Timothy Li,Male,23,102,MBA,MBA,3,2025,No,colemanjamie@example.net,648.222.4091
+1357,Julie Smith,Male,19,103,Mechanical,B.Tech,3,2025,No,michaelhudson@example.org,962-361-0290x06259
+1358,Erin Orozco,Male,24,103,Electronics,BBA,3,2021,Yes,heather20@example.org,001-515-556-2344x117
+1359,Lisa Greene,Female,24,104,Civil,M.Tech,4,2023,Yes,leslie30@example.net,5674286875
+1360,Ryan Walker,Male,18,105,BBA,M.Tech,3,2022,Yes,nicole74@example.net,260.409.8569x263
+1361,Christopher Reyes,Female,24,108,MBA,MBA,2,2023,No,mwallace@example.com,598-238-6839x10357
+1362,Matthew Noble,Female,18,107,Electrical,MBA,7,2023,No,gsingh@example.org,966.744.4583x234
+1363,Richard Fleming,Female,20,105,Information Technology,MBA,3,2023,No,paula82@example.com,692-370-3281x3540
+1364,Julian Love,Female,21,102,Electronics,MBA,6,2022,No,steven07@example.com,893-810-8927
+1365,Emily Braun,Male,18,107,Information Technology,B.Tech,5,2024,Yes,padillavanessa@example.net,855-303-3765x83770
+1366,Martha Rodriguez,Male,21,105,Electrical,B.Tech,6,2025,Yes,bjones@example.org,(864)860-5123x4297
+1367,Patrick Fisher,Female,18,102,Mechanical,BBA,5,2025,Yes,parksjohn@example.com,+1-951-769-5626x323
+1368,Lori Davis,Male,23,106,Electronics,B.Tech,8,2022,No,lambnicholas@example.com,+1-780-238-2327x731
+1369,Alec James Jr.,Male,18,105,Civil,M.Tech,4,2021,Yes,alexandraking@example.net,960-990-4837x3493
+1370,Brendan Barnes,Female,22,104,Information Technology,M.Tech,7,2021,No,clarkrobert@example.net,+1-687-790-5294x8707
+1371,Shannon Robinson,Female,20,108,BBA,B.Tech,8,2025,Yes,jacquelinebruce@example.com,+1-934-211-4790x63461
+1372,Cynthia Horn,Female,19,103,Electrical,BBA,1,2023,Yes,bradley68@example.net,+1-377-576-0535x2752
+1373,Johnny Parks,Male,19,103,Civil,BBA,5,2021,Yes,dale02@example.net,001-787-658-6775x04907
+1374,Joshua Newton,Female,24,103,Information Technology,M.Tech,3,2025,No,justinparker@example.org,756-412-7276
+1375,Christopher James,Female,21,103,Computer Science,MBA,3,2024,Yes,thomascarla@example.com,001-352-358-8621x877
+1376,Christina Wheeler,Female,18,105,Information Technology,MBA,1,2025,Yes,xmccann@example.com,885.304.7997
+1377,Margaret Schmidt,Female,22,106,Civil,MBA,4,2022,Yes,lewisstacey@example.net,680.860.4252x558
+1378,Keith Mason,Male,19,103,Information Technology,MBA,8,2023,No,dmitchell@example.com,+1-277-304-3783x58005
+1379,Keith Mccoy,Male,20,102,MBA,M.Tech,3,2022,Yes,craig45@example.net,001-651-478-0688x22741
+1380,Brandi Klein,Male,18,108,Information Technology,M.Tech,1,2022,No,debrasnyder@example.com,+1-429-421-5540
+1381,Brian Rice,Female,22,103,Electrical,BBA,6,2024,No,ghampton@example.org,870.462.3357x708
+1382,Martin Brown,Female,22,105,Computer Science,M.Tech,5,2022,No,richard30@example.net,418-524-8256x533
+1383,Jeff Gibson,Female,21,104,Computer Science,M.Tech,4,2021,No,hendersonangela@example.net,861-216-8114
+1384,David Ryan,Male,22,107,Information Technology,M.Tech,6,2022,No,ronaldhunter@example.net,580-841-5796x992
+1385,Danny Jacobs,Male,20,104,Civil,M.Tech,4,2022,No,vfoster@example.net,594-352-6167
+1386,Cathy Lawson,Female,20,106,Civil,B.Tech,1,2022,No,rodriguezmartha@example.net,884-205-5884
+1387,Gary Dickerson,Male,18,104,BBA,MBA,8,2022,No,morristhomas@example.org,+1-494-831-2302x0604
+1388,Alan Meza,Male,20,101,Information Technology,BBA,6,2022,No,meltondanielle@example.org,520.581.5484x1105
+1389,Alyssa Hernandez,Male,22,104,Computer Science,MBA,4,2023,No,daniellegalloway@example.com,001-835-263-7615
+1390,Nicole Donovan,Female,24,103,MBA,BBA,3,2025,Yes,stephanie07@example.org,(733)905-2805
+1391,Matthew Wiley,Female,20,105,Electronics,B.Tech,1,2022,No,jamie17@example.org,203.247.4260x805
+1392,Alexander Jimenez,Male,21,104,Information Technology,MBA,2,2025,No,donnarobinson@example.net,+1-292-490-8429x57379
+1393,Charles Miller,Female,23,101,Electronics,M.Tech,5,2023,Yes,ejohnson@example.org,001-515-733-5158x4332
+1394,Todd Roberts,Female,20,105,MBA,M.Tech,1,2025,No,wilcoxapril@example.com,001-392-857-9541x5867
+1395,Daniel Miller,Male,21,103,MBA,B.Tech,3,2024,No,keithperry@example.com,530.226.7505x94126
+1396,Eric Bowman,Female,20,104,Computer Science,M.Tech,1,2025,No,egomez@example.net,(767)373-8720x17261
+1397,Christopher Jenkins,Male,23,103,Civil,M.Tech,4,2022,Yes,icastro@example.com,+1-777-787-2447x7215
+1398,Brandon Meza,Female,19,101,Civil,BBA,3,2022,No,rodriguezjuan@example.org,001-216-474-6720x6720
+1399,Kenneth Jordan,Female,18,107,Mechanical,M.Tech,2,2023,Yes,graytina@example.org,001-659-855-4343
+1400,Megan Powers,Male,20,101,MBA,BBA,6,2024,Yes,jeffreyjohnson@example.com,(936)695-5243x53740
+1401,Heather Medina,Female,21,101,Mechanical,BBA,5,2024,Yes,chansuzanne@example.net,546-554-0219
+1402,Donna Shaw,Male,23,103,Mechanical,BBA,5,2021,No,gsalazar@example.org,827.266.2927x51813
+1403,Thomas Powell,Male,18,101,MBA,B.Tech,7,2022,Yes,pmcdaniel@example.org,908.565.7971x4852
+1404,Michael Holder,Female,18,102,Mechanical,B.Tech,7,2021,No,ginajacobson@example.org,795.669.4330x7932
+1405,Robert Henderson,Male,22,102,Information Technology,BBA,5,2025,Yes,darren33@example.net,+1-842-428-7410x110
+1406,Jeffrey Hodges,Female,22,108,Civil,MBA,1,2024,Yes,brandon98@example.net,001-791-463-8889x9250
+1407,Neil Miller,Female,19,108,Information Technology,B.Tech,4,2025,No,denisepena@example.org,(761)793-9663x53838
+1408,Steven Henry,Female,20,101,Electronics,BBA,2,2024,No,andrea57@example.net,850.358.4446
+1409,Mr. Scott Paul DDS,Male,18,103,Electronics,M.Tech,2,2022,Yes,josephbutler@example.org,521.689.6976x02399
+1410,Michael Johnston,Male,20,102,Electronics,B.Tech,8,2021,No,perkinslauren@example.net,(269)590-0970x030
+1411,John Bray,Male,20,107,BBA,B.Tech,6,2024,No,kevincruz@example.com,001-894-628-9005x6803
+1412,Melissa Robinson,Male,20,103,Information Technology,M.Tech,1,2025,Yes,jasonfuller@example.com,001-620-369-2224
+1413,Natalie Irwin,Male,23,106,Electronics,BBA,4,2021,Yes,millswilliam@example.org,001-398-700-6981x8176
+1414,Mark Dunlap,Female,23,105,Information Technology,MBA,3,2024,No,tracey16@example.org,494.651.5043
+1415,Linda Williams,Female,22,107,MBA,MBA,8,2021,No,timothy55@example.net,9739294742
+1416,Samuel Jackson,Female,21,104,Computer Science,BBA,8,2023,Yes,wlopez@example.com,001-914-288-7785x386
+1417,Jeanette Myers,Male,21,102,BBA,M.Tech,3,2024,Yes,vincent72@example.com,290-391-8946x3223
+1418,Kimberly Morris,Female,20,103,Civil,BBA,1,2022,Yes,santiagorobert@example.com,924.785.5176x220
+1419,David Bishop,Female,19,105,MBA,BBA,3,2021,No,rchristensen@example.net,431-816-7714
+1420,Susan Miller,Male,19,103,Civil,BBA,1,2024,No,ronald91@example.net,640-681-4550x943
+1421,Jessica Williams DVM,Male,19,102,Mechanical,B.Tech,4,2023,No,cervantessheri@example.com,(912)250-9729x56983
+1422,Brandon Hall,Male,22,108,Computer Science,M.Tech,8,2023,Yes,monicabarr@example.org,820.711.0006x612
+1423,Stephanie Phillips,Female,24,101,Civil,BBA,7,2022,No,bianca67@example.org,363.512.9896x99256
+1424,Robert Miller,Female,18,106,Mechanical,BBA,7,2021,No,raychelsea@example.com,241-855-7764x930
+1425,Mark Goodman,Male,22,106,MBA,BBA,1,2024,Yes,george98@example.com,(948)391-8453
+1426,Mark Kennedy,Male,19,105,Electrical,BBA,7,2025,No,jillwilson@example.org,902.742.1016
+1427,Kelly Johnson,Female,20,105,BBA,MBA,6,2021,No,kimberlykim@example.org,+1-848-376-7744x64041
+1428,Paul Ross,Female,18,103,Information Technology,B.Tech,3,2023,No,mooregarrett@example.org,+1-600-551-9763x545
+1429,Anthony Washington,Male,23,108,Electrical,M.Tech,2,2021,Yes,lauranelson@example.net,(338)504-1101x272
+1430,Charlene Parker,Female,21,107,BBA,MBA,1,2025,Yes,rebeccanguyen@example.com,001-989-932-5979
+1431,Mary Fox,Female,21,102,Mechanical,MBA,8,2025,Yes,jonespeter@example.org,+1-609-214-8936x7216
+1432,Michelle Lowe,Male,23,105,BBA,MBA,6,2023,No,dennisolson@example.net,560.505.0689x629
+1433,James Thomas,Male,23,103,Mechanical,B.Tech,7,2021,No,christiescott@example.net,220.743.8521x8277
+1434,Jennifer Perry,Female,18,104,Mechanical,M.Tech,6,2022,Yes,samanthahawkins@example.com,2913089129
+1435,William Martin,Female,19,108,Computer Science,MBA,1,2022,Yes,teresamarquez@example.net,(406)902-0032x5365
+1436,Sandra Smith,Male,24,104,Civil,BBA,1,2021,Yes,aaron15@example.com,+1-657-568-7101x6468
+1437,Jennifer Walker,Male,24,107,Civil,MBA,4,2023,Yes,brooksevan@example.net,542.810.1973x7928
+1438,Alejandra Foster,Male,20,103,MBA,M.Tech,7,2024,No,sarah44@example.net,(565)382-0237x650
+1439,John Molina,Female,19,104,Civil,B.Tech,4,2023,No,james64@example.net,9684004087
+1440,Michael Jones,Male,21,107,Electronics,M.Tech,8,2023,Yes,shannon76@example.org,950-854-9368
+1441,Joseph Bond,Female,24,104,Mechanical,MBA,4,2024,Yes,james76@example.net,584.978.6884
+1442,Kevin Wilson,Female,22,108,Electronics,MBA,4,2021,No,guzmanerika@example.org,(593)347-6649x54931
+1443,Robert Williams,Female,22,107,MBA,MBA,8,2023,Yes,julieramos@example.net,(552)354-1693
+1444,Gregory Henry,Male,24,101,Civil,B.Tech,2,2025,No,johnstoncarol@example.net,(806)765-7083
+1445,Chase Morrison,Male,21,105,BBA,B.Tech,4,2021,Yes,bethanyadams@example.com,(612)721-3605x13956
+1446,Justin Richardson,Male,24,103,Civil,BBA,2,2024,No,ryanbryant@example.com,907.813.5048
+1447,John Shah,Male,19,102,BBA,B.Tech,8,2025,No,amber84@example.net,6266921518
+1448,Tyler Myers,Male,22,104,Mechanical,M.Tech,4,2025,Yes,emilyjohnson@example.net,+1-816-396-9440x76427
+1449,Brian Rodriguez,Male,24,107,Information Technology,MBA,2,2023,No,nicholas78@example.com,+1-978-898-3456x884
+1450,Ian Morton,Female,20,107,Mechanical,M.Tech,4,2023,Yes,kbowman@example.org,3447076925
+1451,Derek Conway,Male,19,101,Electronics,B.Tech,1,2021,Yes,anthonyjohnson@example.net,919.249.5296x69955
+1452,Kristin Bailey,Male,21,102,Mechanical,BBA,5,2021,Yes,woodcindy@example.com,949.714.5512x9365
+1453,Terry Day,Male,22,107,Electronics,M.Tech,8,2021,Yes,frostkaren@example.org,001-696-998-8186x82634
+1454,Nathan Brown,Female,23,103,MBA,B.Tech,2,2022,Yes,suttonjohn@example.com,+1-331-675-8343x4520
+1455,Becky Dixon,Male,21,107,MBA,B.Tech,7,2025,Yes,stevendennis@example.net,675-559-2710
+1456,Raymond Nelson,Male,19,102,Computer Science,BBA,4,2021,Yes,pbridges@example.org,637.943.5625x1033
+1457,Courtney Franklin,Male,20,105,Civil,BBA,3,2023,Yes,oweaver@example.net,561.351.5508
+1458,Helen Coleman,Male,21,105,BBA,MBA,7,2023,No,jefferysloan@example.net,487-540-1821
+1459,Paul Barnes,Female,23,106,Information Technology,MBA,5,2021,No,mparker@example.com,001-835-418-3252x85533
+1460,Alicia Miller,Female,24,104,Electronics,MBA,7,2025,Yes,kendra27@example.org,690-445-2713x508
+1461,Jose Thomas,Male,19,105,Electronics,MBA,1,2023,Yes,douglascuevas@example.org,+1-914-363-9949x791
+1462,Miss Nicole Ryan,Female,24,103,BBA,B.Tech,1,2025,Yes,ydavidson@example.org,758.908.8407x9627
+1463,Ashlee Poole,Female,19,102,Information Technology,M.Tech,8,2025,Yes,swhite@example.org,528.788.3306
+1464,Scott Wilson,Female,18,106,Mechanical,M.Tech,7,2025,No,hillfrancis@example.com,+1-816-489-2600
+1465,David Jones,Female,22,108,Electronics,MBA,3,2024,No,williamsdavid@example.org,4847290646
+1466,Dr. Marc Mendoza,Male,24,101,Electrical,MBA,3,2021,Yes,harrisaustin@example.org,9383763454
+1467,Ashley Rosales,Male,24,104,MBA,MBA,3,2021,No,craig89@example.org,635-565-9321x1239
+1468,Teresa Stevenson,Male,23,102,Computer Science,MBA,4,2022,No,joycewhite@example.net,001-755-329-0898x043
+1469,Jordan Jones,Male,22,101,BBA,BBA,2,2024,Yes,jennifer30@example.com,6168931550
+1470,Bruce Burns,Male,22,104,Computer Science,MBA,8,2023,Yes,xyu@example.com,(874)458-1510x7457
+1471,Eric Myers,Male,23,104,Electronics,M.Tech,1,2024,Yes,maryyoung@example.net,+1-353-615-0152
+1472,David Blake,Male,21,107,Information Technology,BBA,6,2021,Yes,joshuasmith@example.org,001-588-879-7290x4265
+1473,Steven Lopez,Male,23,102,MBA,B.Tech,3,2023,No,kimberlygallagher@example.net,859.982.2230x47303
+1474,Dylan James,Female,23,103,BBA,M.Tech,8,2025,Yes,vdonovan@example.org,5707951328
+1475,Jeffery Butler,Female,23,103,BBA,M.Tech,3,2021,Yes,flowerscatherine@example.org,6769732660
+1476,Jose Anderson,Male,22,104,Mechanical,B.Tech,5,2021,No,treeves@example.org,312-781-7868x2742
+1477,Kelly Mullins,Female,21,105,Electrical,MBA,4,2025,Yes,hzuniga@example.com,888.853.4053x42106
+1478,Justin Stokes,Female,21,106,Civil,MBA,7,2023,No,jennifersandoval@example.net,461-826-8825
+1479,Michael Simmons,Female,22,102,Electronics,M.Tech,8,2025,No,reidsteven@example.com,964.450.7098
+1480,Melissa Carter,Female,18,102,Civil,M.Tech,6,2022,Yes,ryanjones@example.net,7908323168
+1481,Dr. Mary Scott,Male,19,108,MBA,MBA,2,2023,Yes,jason59@example.net,(624)257-6238x05242
+1482,Alexandra Jackson,Female,23,102,MBA,M.Tech,1,2021,Yes,angelaparker@example.net,(839)486-2292x091
+1483,Christopher Hernandez,Female,18,102,Electronics,MBA,2,2024,No,matthewalexander@example.com,4203003531
+1484,Thomas Hardy,Female,23,104,BBA,B.Tech,6,2025,No,zcarroll@example.com,001-871-476-8487x05632
+1485,Terri Daniels,Female,20,107,MBA,MBA,5,2023,No,jessecollier@example.net,001-270-954-1689x5345
+1486,Miss Alice Hill,Male,19,102,Civil,B.Tech,3,2021,No,hparker@example.com,+1-302-747-2798x2359
+1487,Charlene Morse,Female,23,107,Electronics,B.Tech,8,2021,No,emily22@example.org,001-589-643-6100x6459
+1488,Courtney Sharp,Female,19,106,Electrical,MBA,1,2022,No,waltermorgan@example.com,(832)986-2117x21932
+1489,Melissa Rowe,Male,18,104,Computer Science,MBA,1,2023,Yes,smithsara@example.net,001-324-281-5527
+1490,Catherine Lopez,Female,23,107,BBA,BBA,6,2023,No,anthonydavis@example.com,+1-779-400-6901x1367
+1491,Andrew Baker,Female,24,108,Electrical,B.Tech,8,2023,Yes,ygutierrez@example.org,(436)915-6768
+1492,Mark Robinson,Female,24,106,BBA,MBA,3,2023,No,bruce81@example.net,+1-825-943-8330x9026
+1493,Bradley Rose,Male,24,108,Civil,B.Tech,4,2024,No,morganryan@example.org,374.313.7526x893
+1494,Kimberly Haynes,Male,20,104,Computer Science,MBA,6,2024,No,fchapman@example.net,(429)649-2138
+1495,Mrs. Wendy Stark,Male,24,103,Electrical,MBA,4,2023,Yes,paul44@example.org,392.365.8503x93856
+1496,Lauren Nielsen,Male,22,102,Civil,B.Tech,8,2023,Yes,mitchell53@example.com,(452)654-5251
+1497,Collin Moore,Female,20,106,Mechanical,M.Tech,1,2022,No,rileyscott@example.com,(763)385-3636x894
+1498,Dr. Bethany Blair,Male,22,105,Electronics,MBA,4,2025,No,schneidersamantha@example.com,617.669.7342
+1499,Margaret Murray MD,Male,23,101,Electrical,MBA,5,2024,No,nathanfisher@example.net,597.611.0718x509
+1500,Mark Knapp,Female,18,107,Electrical,MBA,8,2023,Yes,jeanrowland@example.com,+1-363-325-3781x85167

@@ -1,0 +1,101 @@
+﻿Course_ID,Course_Name,Department_ID,Department_Name,Semester,Credits,Faculty_ID
+3001,Financial Accounting,105,Electronics,1,4,2023
+3002,Artificial Intelligence,103,Civil,7,4,2027
+3003,Cloud Computing,101,Computer Science,4,4,2016
+3004,Electrical Machines,107,MBA,4,4,2001
+3005,Cyber Security,104,Electrical,8,4,2038
+3006,Surveying,107,MBA,5,4,2018
+3007,Electrical Machines,104,Electrical,6,4,2007
+3008,Operating Systems,107,MBA,3,4,2012
+3009,Operating Systems,107,MBA,5,4,2005
+3010,Financial Accounting,101,Computer Science,6,3,2043
+3011,Operating Systems,104,Electrical,1,4,2037
+3012,Surveying,104,Electrical,1,2,2038
+3013,Software Engineering,105,Electronics,6,4,2038
+3014,Computer Networks,101,Computer Science,2,2,2011
+3015,Data Structures,104,Electrical,7,3,2050
+3016,Structural Analysis,102,Mechanical,7,2,2042
+3017,Electrical Machines,107,MBA,8,4,2029
+3018,Cyber Security,103,Civil,3,4,2033
+3019,Surveying,106,Information Technology,8,2,2035
+3020,Machine Learning,108,MCA,6,3,2018
+3021,Programming in Python,105,Electronics,2,2,2008
+3022,Structural Analysis,107,MBA,4,4,2008
+3023,Thermodynamics,101,Computer Science,6,3,2004
+3024,Structural Analysis,107,MBA,7,4,2002
+3025,Thermodynamics,105,Electronics,4,4,2048
+3026,Programming in Python,105,Electronics,7,4,2033
+3027,Software Engineering,105,Electronics,4,4,2050
+3028,Database Management Systems,101,Computer Science,3,4,2038
+3029,Machine Learning,107,MBA,8,2,2036
+3030,Operating Systems,105,Electronics,6,3,2021
+3031,Structural Analysis,106,Information Technology,6,4,2047
+3032,Cyber Security,104,Electrical,2,4,2028
+3033,Computer Networks,108,MCA,3,3,2039
+3034,Database Management Systems,104,Electrical,4,2,2030
+3035,Thermodynamics,104,Electrical,4,3,2007
+3036,Electrical Machines,102,Mechanical,8,4,2007
+3037,Financial Accounting,101,Computer Science,1,3,2049
+3038,Engineering Mathematics,104,Electrical,6,3,2050
+3039,Software Engineering,104,Electrical,1,3,2033
+3040,Data Structures,107,MBA,1,3,2028
+3041,Engineering Mathematics,106,Information Technology,3,4,2030
+3042,Programming in Python,108,MCA,7,3,2010
+3043,Electrical Machines,105,Electronics,6,4,2016
+3044,Thermodynamics,102,Mechanical,8,3,2050
+3045,Surveying,105,Electronics,7,4,2004
+3046,Cloud Computing,106,Information Technology,3,3,2034
+3047,Programming in Python,103,Civil,4,3,2022
+3048,Cyber Security,103,Civil,4,3,2030
+3049,Fluid Mechanics,105,Electronics,1,2,2039
+3050,Surveying,108,MCA,7,3,2039
+3051,Engineering Mathematics,107,MBA,4,2,2024
+3052,Machine Learning,106,Information Technology,8,2,2043
+3053,Software Engineering,101,Computer Science,1,3,2027
+3054,Machine Learning,103,Civil,1,3,2026
+3055,Engineering Mathematics,103,Civil,7,2,2049
+3056,Surveying,106,Information Technology,5,2,2019
+3057,Database Management Systems,103,Civil,3,3,2046
+3058,Operating Systems,108,MCA,8,4,2031
+3059,Programming in Python,104,Electrical,8,2,2001
+3060,Digital Electronics,106,Information Technology,8,2,2037
+3061,Engineering Mathematics,103,Civil,3,2,2042
+3062,Digital Electronics,107,MBA,7,2,2033
+3063,Marketing Management,108,MCA,4,3,2047
+3064,Thermodynamics,106,Information Technology,3,4,2016
+3065,Data Structures,108,MCA,6,4,2036
+3066,Cloud Computing,102,Mechanical,5,3,2043
+3067,Machine Learning,101,Computer Science,8,3,2040
+3068,Cyber Security,106,Information Technology,7,3,2013
+3069,Machine Learning,102,Mechanical,2,3,2040
+3070,Fluid Mechanics,101,Computer Science,2,2,2016
+3071,Software Engineering,106,Information Technology,7,2,2021
+3072,Cloud Computing,102,Mechanical,2,3,2014
+3073,Surveying,107,MBA,3,2,2018
+3074,Thermodynamics,107,MBA,1,2,2001
+3075,Digital Electronics,106,Information Technology,7,4,2012
+3076,Machine Learning,101,Computer Science,8,3,2035
+3077,Operating Systems,104,Electrical,4,2,2023
+3078,Artificial Intelligence,108,MCA,2,3,2031
+3079,Electrical Machines,101,Computer Science,3,3,2034
+3080,Machine Learning,108,MCA,4,2,2013
+3081,Cyber Security,107,MBA,5,2,2043
+3082,Electrical Machines,102,Mechanical,1,4,2036
+3083,Thermodynamics,107,MBA,7,4,2021
+3084,Surveying,104,Electrical,7,2,2030
+3085,Microprocessors,105,Electronics,5,2,2038
+3086,Cyber Security,106,Information Technology,6,4,2012
+3087,Database Management Systems,104,Electrical,2,3,2020
+3088,Engineering Mathematics,107,MBA,2,2,2040
+3089,Engineering Mathematics,108,MCA,3,4,2008
+3090,Thermodynamics,108,MCA,2,4,2011
+3091,Structural Analysis,107,MBA,6,3,2043
+3092,Cloud Computing,108,MCA,2,2,2044
+3093,Marketing Management,107,MBA,5,3,2027
+3094,Engineering Mathematics,106,Information Technology,5,3,2045
+3095,Programming in Python,101,Computer Science,7,2,2038
+3096,Electrical Machines,103,Civil,5,3,2004
+3097,Computer Networks,102,Mechanical,8,4,2044
+3098,Microprocessors,105,Electronics,2,4,2002
+3099,Computer Networks,101,Computer Science,1,3,2029
+3100,Programming in Python,106,Information Technology,1,4,2041
